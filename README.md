@@ -1,4 +1,4 @@
-# infinite-scroll-posts
+# Infinite Scroll Example
 
 ## Description
 
